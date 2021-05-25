@@ -2,7 +2,7 @@ I'm currently the Director of Software Engineering for a SaaS solution provider 
 
 This page will serve a portfolio of some side projects that I've worked on the past.
 
-I've accomplished the following in this role.
+I've accomplished the following in this role:
 <ul>
 <li>Architectured, developed and implemented the migration of a legacy C++ on-premise software solution to a cloud based SaaS platform</li>
 <li>Designed software that led to customers choosing this solution over Tier-1 global competitors</li>
